@@ -1,84 +1,77 @@
-!Header
+<h1 align="center">Hi there, I'm Sinthia 👋</h1>
 
 <p align="center">
-  <b>🚀 Computer Science Student | Aspiring Machine Learning Engineer | Python Developer</b>
+  <b>💻 Aspiring Web Developer | CSE Student @ DIU | Lifelong Learner</b>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 🧑‍🎓 About Me
 
-Hi there! I'm Sinthia, a passionate and dedicated Computer Science student at Daffodil International University, Dhaka 🇧🇩.  
-I love solving problems with code, diving deep into Machine Learning, and building meaningful projects that make an impact.
+Hello! I'm **Sinthia Akter**, a passionate Computer Science & Engineering student at  
+**Daffodil International University**, Dhaka 🇧🇩.
 
-- 💻 Currently exploring ML algorithms and working on research in agriculture prediction
-- 🧠 Always curious to learn new tools and technologies
-- 🌱 Strong believer in consistency over perfection
-- 🛠 Passionate about Python, Data Science, and backend development
+I’m currently focused on learning **Web Development** and aim to build a career in this field.  
+I love creating beautiful, functional websites that solve real problems and bring value to users.  
+Every line of code I write brings me closer to my dream of becoming a professional **Web Developer**.
 
----
-
-### 🔭 Currently Working On
-- 100 Days of Machine Learning Challenge
-- Mini Projects using KNN, SVM, Decision Trees, and Streamlit
-- Research on ML in Agriculture
-
-### 📚 Currently Learning
-- PyTorch
-- Research Paper Writing
-- Advanced Machine Learning Concepts
+- 🔭 Currently diving into **HTML, CSS, and JavaScript**
+- 🌱 Learning daily with hands-on mini projects and tutorials
+- 🧠 Strong believer in learning by building
+- 💡 Exploring **responsive design**, **backend basics**, and deployment
 
 ---
 
-### 💼 Skills
+### 🚀 What I'm Working On
 
-- Languages: Python, C, C++, Java  
-- ML & DS Libraries: NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn  
-- Web: HTML, CSS, Flask, Streamlit  
-- Tools: Git, GitHub, Jupyter Notebook  
-- Database: MySQL, SQLite  
+- Building responsive portfolio and blog websites  
+- Exploring backend using **Flask** & **MySQL**  
+- Personal web projects to strengthen my frontend skills  
+- Learning Git & GitHub for version control and collaboration
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Skills & Tools
+
+- **Languages:** HTML, CSS, JavaScript, Python, C  
+- **Web:** Responsive Design, GitHub Pages, Flask (Basic)  
+- **Database:** MySQL  
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
+- **Currently Learning:** JavaScript DOM, Responsive Layouts, Git CLI
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:sinthiaorita37@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kulsom-akter-sinthia-71108a366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/your-github-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+### ✨ GitHub Stats (optional - works after activity)
 
 <div align="center">
-
-### 🔝 Most Used Languages
-!Top Languages
-
----
-
-### 🚀 Sinthia's GitHub Stats
-!Sinthia's GitHub Stats
-
-!GitHub Streak
-
-!Profile Trophy
+  
+  ![Sinthia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
 
 </div>
 
+---
 
+> 📝 *“I may not be the best yet, but I never stop improving.”*
 
 ---
 
-## 📬 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tamim-mahmud91437/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/tamim1249" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://web.facebook.com/tamim23w" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:tamimmahmud91437@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
----
-
-> *"Consistency beats talent. I’m not the best, but I never stop."*
