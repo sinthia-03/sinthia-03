@@ -13,24 +13,24 @@ Daffodil International University, Dhaka 🇧🇩.
 
 I’m currently focused on learning Flutter & Dart and aim to build a career in mobile app development.
 I love creating beautiful, functional mobile apps that provide real value to users.
-Every line of code I write brings me closer to my dream of becoming a professional Flutter Developer.
+Every line of code I write brings me closer to my dream of becoming a professional Flutter Developer. </p>
 
-🔭 Currently diving into Flutter, Dart, and OOP concepts </p>
-🌱 Learning daily with hands-on mini projects and tutorials </p>
-🧠 Strong believer in learning by building </p>
+🔭 Currently diving into Flutter, Dart, and OOP concepts 
+🌱 Learning daily with hands-on mini projects and tutorials 
+🧠 Strong believer in learning by building 
 💡 Exploring UI design, state management, and responsive mobile layouts </p>
 
-🚀 What I'm Working On </p>
-Building mobile apps using Flutter </p>
-Implementing OOP concepts in Dart for clean code </p>
-Creating small Flutter projects to strengthen UI & functionality </p>
+🚀 What I'm Working On 
+Building mobile apps using Flutter 
+Implementing OOP concepts in Dart for clean code 
+Creating small Flutter projects to strengthen UI & functionality 
 Learning Git & GitHub for version control and collaboration </p>
 
-🛠️ Skills & Tools </p>
-Languages: Dart, Python, C </p>
-Mobile Development: Flutter, Widget Design, Material & Cupertino UI </p>
-OOP Concepts: Classes, Objects, Inheritance, Polymorphism, Abstraction </p>
-Tools: VS Code, Android Studio, Git, GitHub </p>
+🛠️ Skills & Tools 
+Languages: Dart, Python, C 
+Mobile Development: Flutter, Widget Design, Material & Cupertino UI 
+OOP Concepts: Classes, Objects, Inheritance, Polymorphism, Abstraction 
+Tools: VS Code, Android Studio, Git, GitHub 
 Currently Learning: Flutter State Management, Responsive Layouts, Dart Advanced Concepts </p>
 
 ---
