@@ -45,17 +45,22 @@ Currently learning Flutter with Dart (OOP).
 
 ---
 
-### ✨ GitHub Stats (optional - works after activity)
+## 📚 Currently Learning
 
-<div align="center">
-  
-  ![Sinthia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)
+- Flutter (Beginner)
+- Dart Programming with OOP
+- Building simple mobile apps
+- UI design using Flutter widgets
 
-</div>
+## 📊 GitHub Stats
+![Sinthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+## 🔝 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+
 
 ---
 
