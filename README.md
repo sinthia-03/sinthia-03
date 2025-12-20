@@ -1,43 +1,37 @@
 <h1 align="center">Hi there, I'm Sinthia 👋</h1>
 
 <p align="center">
-  <b>💻 Aspiring Web Developer | CSE Student @ DIU | Lifelong Learner</b>
+  <b>💻 Aspiring Flutter App Developer | CSE Student @ DIU | Lifelong Learner</b>
 </p>
 
 ---
 
 ### 🧑‍🎓 About Me
 
-Hello! I'm **Sinthia Akter**, a passionate Computer Science & Engineering student at  
-**Daffodil International University**, Dhaka 🇧🇩.
+Hello! I'm Sinthia Akter, a passionate Computer Science & Engineering student at
+Daffodil International University, Dhaka 🇧🇩.
 
-I’m currently focused on learning **Web Development** and aim to build a career in this field.  
-I love creating beautiful, functional websites that solve real problems and bring value to users.  
-Every line of code I write brings me closer to my dream of becoming a professional **Web Developer**.
+I’m currently focused on learning Flutter & Dart and aim to build a career in mobile app development.
+I love creating beautiful, functional mobile apps that provide real value to users.
+Every line of code I write brings me closer to my dream of becoming a professional Flutter Developer.
 
-- 🔭 Currently diving into **HTML, CSS, and JavaScript**
-- 🌱 Learning daily with hands-on mini projects and tutorials
-- 🧠 Strong believer in learning by building
-- 💡 Exploring **responsive design**, **backend basics**, and deployment
+🔭 Currently diving into Flutter, Dart, and OOP concepts
+🌱 Learning daily with hands-on mini projects and tutorials
+🧠 Strong believer in learning by building
+💡 Exploring UI design, state management, and responsive mobile layouts
 
----
+🚀 What I'm Working On
+Building mobile apps using Flutter
+Implementing OOP concepts in Dart for clean code
+Creating small Flutter projects to strengthen UI & functionality
+Learning Git & GitHub for version control and collaboration
 
-### 🚀 What I'm Working On
-
-- Building responsive portfolio and blog websites  
-- Exploring backend using **Flask** & **MySQL**  
-- Personal web projects to strengthen my frontend skills  
-- Learning Git & GitHub for version control and collaboration
-
----
-
-### 🛠️ Skills & Tools
-
-- **Languages:** HTML, CSS, JavaScript, Python, C  
-- **Web:** Responsive Design, GitHub Pages, Flask (Basic)  
-- **Database:** MySQL  
-- **Tools:** Git, GitHub, VS Code, Chrome DevTools  
-- **Currently Learning:** JavaScript DOM, Responsive Layouts, Git CLI
+🛠️ Skills & Tools
+Languages: Dart, Python, C
+Mobile Development: Flutter, Widget Design, Material & Cupertino UI
+OOP Concepts: Classes, Objects, Inheritance, Polymorphism, Abstraction
+Tools: VS Code, Android Studio, Git, GitHub
+Currently Learning: Flutter State Management, Responsive Layouts, Dart Advanced Concepts
 
 ---
 
