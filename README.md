@@ -6,32 +6,26 @@
 
 ---
 
-### 🧑‍🎓 About Me
+# Hi, I'm Sinthia 👋
 
-Hello! I'm Sinthia Akter, a passionate Computer Science & Engineering student at
-Daffodil International University, Dhaka 🇧🇩.
+## 👩‍💻 About Me
+I am a CSE student at DIU.
+Currently learning Flutter with Dart (OOP).
 
-I’m currently focused on learning Flutter & Dart and aim to build a career in mobile app development.
-I love creating beautiful, functional mobile apps that provide real value to users.
-Every line of code I write brings me closer to my dream of becoming a professional Flutter Developer. </p>
+## 🚀 Currently Learning
+- Flutter
+- Dart (OOP)
+- Mobile UI Design
 
-🔭 Currently diving into Flutter, Dart, and OOP concepts 
-🌱 Learning daily with hands-on mini projects and tutorials 
-🧠 Strong believer in learning by building 
-💡 Exploring UI design, state management, and responsive mobile layouts </p>
+## 🛠️ Skills
+- Dart
+- Flutter
+- Git & GitHub
 
-🚀 What I'm Working On 
-Building mobile apps using Flutter 
-Implementing OOP concepts in Dart for clean code 
-Creating small Flutter projects to strengthen UI & functionality 
-Learning Git & GitHub for version control and collaboration </p>
+## 📌 Goals
+- Become a Flutter Developer
+- Build real-world mobile apps
 
-🛠️ Skills & Tools 
-Languages: Dart, Python, C 
-Mobile Development: Flutter, Widget Design, Material & Cupertino UI 
-OOP Concepts: Classes, Objects, Inheritance, Polymorphism, Abstraction 
-Tools: VS Code, Android Studio, Git, GitHub 
-Currently Learning: Flutter State Management, Responsive Layouts, Dart Advanced Concepts </p>
 
 ---
 
