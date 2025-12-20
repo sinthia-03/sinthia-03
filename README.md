@@ -45,22 +45,6 @@ Currently learning Flutter with Dart (OOP).
 
 ---
 
-## 📚 Currently Learning
-
-- Flutter (Beginner)
-- Dart Programming with OOP
-- Building simple mobile apps
-- UI design using Flutter widgets
-
-## 📊 GitHub Stats
-![Sinthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-## 🔝 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
-
 
 ---
 
