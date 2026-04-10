@@ -1,6 +1,6 @@
-# Hi 👋, I'm Sinthia Orita
+#                                                        I'm Kulsom Akter Sinthia
 
-### 💻 Software Developer | 📱 Flutter App Developer | 🌐 Web Development Learner | 🤖 ML Research Enthusiast
+###                                            💻 Software Engineer | 📱 Flutter App Developer 
 ---
 ## 🚀 About Me
 
