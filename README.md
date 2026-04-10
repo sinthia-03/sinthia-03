@@ -1,9 +1,12 @@
-#                                                        I'm Kulsom Akter Sinthia
+<h1 align="center">Hi 👋, I'm Sinthia Orita</h1>
 
-###                                            💻 Software Engineer | 📱 Flutter App Developer 
----
+<h3 align="center"> Software Developer | Flutter App Developer /h3>
+
+<p align="left">
+I am an App Developer and Software Engineer passionate about building modern mobile applications using Flutter and learning new technologies.
+</p>
+
 ## 🚀 About Me
-
 - 🎓 CSE Student
 - 💻 I love building Mobile Apps using Flutter
 - 🌐 Currently learning Web Development
