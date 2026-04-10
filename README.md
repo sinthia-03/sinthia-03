@@ -12,23 +12,27 @@
 I am a CSE student at DIU.
 Currently learning Flutter with Dart (OOP).
 
-## 🚀 Currently Learning
-- Flutter
-- Dart (OOP)
-- Mobile UI Design
 
-## 🛠️ Skills
-- Dart
-- Flutter
-- Git & GitHub
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+</div>
 
-## 📌 Goals
-- Become a Flutter Developer
-- Build real-world mobile apps
+###
 
+<div align="left">
+</div>
 
----
-
+###
 ### 📬 Connect with Me
 
 <p align="center">
