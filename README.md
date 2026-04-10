@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sinthia Orita</h1>
+<h1 align="center">Hi 👋, I'm Kulsom Akter SInthia </h1>
+
+<p align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=sinthia-03&label=Profile%20views&color=0e75b6&style=flat)
+</p>
 
 <h3 align="center"> Software Engineer | Flutter App Developer </h3>
 
@@ -24,18 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
-
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sinthia-03&theme=tokyonight&hide_border=true)
 
 ###
 
-<div align="left">
-</div>
-
-###
 ### 📬 Connect with Me
 
 <p align="center">
@@ -52,10 +50,4 @@
 
 ---
 
-
----
-
 💡 Building modern apps and learning every day to become a better Software Engineer.
-
----
-
