@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kulsom Akter SInthia </h1>
 
-<p align="left">
-  ![Profile Views](https://github.com/sinthia-03)
-</p>
-
 <h3 align="center"> Software Engineer | Flutter App Developer </h3>
 
 ## 🚀 About Me
