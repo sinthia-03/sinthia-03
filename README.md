@@ -9,6 +9,7 @@
 - 🌐 Currently learning Web Development
 - 🎯 Dream: Become a Professional Software Engineer
 
+## 🛠️ Skills
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
