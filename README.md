@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kulsom Akter SInthia </h1>
 
-<p align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=sinthia-03&label=Profile%20views&color=0e75b6&style=flat)
+<p align="left">
+  ![Profile Views](https://github.com/sinthia-03)
 </p>
 
 <h3 align="center"> Software Engineer | Flutter App Developer </h3>
