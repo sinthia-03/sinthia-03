@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinthia Orita</h1>
 
-<h3 align="center"> Software Developer | Flutter App Developer h3>
+<h3 align="center"> Software Engineer | Flutter App Developer </h3>
 
 ## 🚀 About Me
 - 🎓 CSE Student
@@ -55,7 +55,7 @@
 
 ---
 
-> 📝 *“I may not be the best yet, but I never stop improving.”*
+💡 Building modern apps and learning every day to become a better Software Engineer.
 
 ---
 
