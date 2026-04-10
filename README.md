@@ -1,16 +1,13 @@
-<h1 align="center">Hi there, I'm Sinthia 👋</h1>
+# Hi 👋, I'm Sinthia Orita
 
-<p align="center">
-  <b>💻 Aspiring Flutter App Developer | CSE Student @ DIU | Lifelong Learner</b>
-</p>
-
+### 💻 Software Developer | 📱 Flutter App Developer | 🌐 Web Development Learner | 🤖 ML Research Enthusiast
 ---
+## 🚀 About Me
 
-# Hi, I'm Sinthia 👋
-
-## 👩‍💻 About Me
-I am a CSE student at DIU.
-Currently learning Flutter with Dart (OOP).
+- 🎓 CSE Student
+- 💻 I love building Mobile Apps using Flutter
+- 🌐 Currently learning Web Development
+- 🎯 Dream: Become a Professional Software Engineer
 
 
 <div align="left">
