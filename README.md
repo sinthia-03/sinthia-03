@@ -27,6 +27,16 @@ Currently learning Flutter with Dart (OOP).
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
 </div>
 
+## 📊 GitHub Stats
+
+![Sinthia's GitHub stats](https://github-readme-stats.vercel.app/api?username=sinthia-03&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinthia-03&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sinthia-03&theme=tokyonight&hide_border=true)
+
 ###
 
 <div align="left">
