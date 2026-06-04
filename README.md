@@ -1,6 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kulsom Akter SInthia </h1>
 
-<h3 align="center"> Software Engineer | Flutter App Developer </h3>
+<div align="center">
+
+# Kulsom Akter Sinthia
+
+###  Mobile App Developer | Flutter Enthusiast | UI/UX Learner
+
+</div>
+
 
 ## 🚀 About Me
 - 🎓 CSE Student
