@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## ⚡ About Me
+ ⚡ About Me
 * **Name:** Kulsom Akter Sinthia
 * **Focus:**
   * **Mobile:** Flutter, Dart, UI Design, State Management
