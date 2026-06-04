@@ -10,8 +10,6 @@
   </a>
 </p>
 
----
-
 ## ⚡ About Me
 * **Name:** Kulsom Akter Sinthia
 * **Focus:**
