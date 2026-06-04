@@ -1,8 +1,7 @@
 <h1 align="center">  I'm Kulsom Akter Sinthia</h1>
 <h3 align="center">Mobile App Developer | Flutter Enthusiast </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinthia-03" alt="sinthia-03" /></a> </p>
-
+<h1 align="center">
 <p align="left">
   <a href="https://www.linkedin.com/feed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
