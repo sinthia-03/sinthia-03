@@ -9,16 +9,17 @@
  <a href="mailto:sinthiaorita37@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-## About Me
-name: Kulsom Akter Sinthia
-focus:
-  mobile: Flutter, Dart, UI Design, State Management
-  database: MySQL, SQL Querying, Relational Database (3NF)
-  core_tools: Git, Java, C/C++, Python
-currently:
-  - Exploring advanced mobile app development & cross-platform solutions
-  - Integrating features like YouTube video playback & WebViews into Flutter apps
-  - Studying Computer Science and Technical Architecture at Daffodil International University
+ </p>
+## About Me</p>
+name: Kulsom Akter Sinthia </p>
+focus:</p>
+  mobile: Flutter, Dart, UI Design, State Management </p>
+  database: MySQL, SQL Querying, Relational Database (3NF) </p>
+  core_tools: Git, Java, C/C++, Python </p>
+currently:</p>
+  - Exploring advanced mobile app development & cross-platform solutions</p>
+  - Integrating features like YouTube video playback & WebViews into Flutter apps</p>
+  - Studying Computer Science and Technical Architecture at Daffodil International University</p>
 </div> 
 </p>
 <h3 align="left">🧰 Tech Stack</h3>
