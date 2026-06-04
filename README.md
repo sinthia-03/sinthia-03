@@ -1,11 +1,20 @@
 
-<div align="center">
+ align="center">
 
 # Kulsom Akter Sinthia
 
 ###  Mobile App Developer | Flutter Enthusiast | UI/UX Learner
 
-</div>
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:sinthiaorita37@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/kulsom-akter-sinthia-71108a366/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</p>
 
 
 ## 🚀 About Me
@@ -36,19 +45,7 @@
 
 ###
 
-### 📬 Connect with Me
 
-<p align="center">
-  <a href="mailto:sinthiaorita37@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/kulsom-akter-sinthia-71108a366/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/your-github-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 ---
 
