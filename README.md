@@ -29,12 +29,13 @@
 ---
 <h3 align="left">📊 GitHub Analytics </h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sinthia-03&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Sinthia's Contribution Graph" />
-</p>
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sinthia-03&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117"/>
 
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sinthia-03&theme=dark&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF9B00&fire=FF9B00&currStreakLabel=FF9B00"/>
+
+</div>
 <p align="center">
   🗣️ <b>Ask me about:</b>   
   <img src="https://img.shields.io/badge/-Flutter-222222?style=flat-square&logo=flutter" alt="Flutter" />
