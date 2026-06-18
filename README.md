@@ -28,13 +28,11 @@
 
 ---
 <h3 align="left">📊 GitHub Analytics </h3>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sinthia-03&theme=dark&background=0D1117&ring=FF9900&fire=FF9900&currStreakLabel=FF9900&sideNums=FFFFFF&sideLabels=FFFFFF&dates=8B949E)](https://git.io/streak-stats)
-
-</div>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sinthia-03" alt="GitHub Streak" />
+  </a>
+</p>
 <p align="center">
   🗣️ <b>Ask me about:</b>   
   <img src="https://img.shields.io/badge/-Flutter-222222?style=flat-square&logo=flutter" alt="Flutter" />
